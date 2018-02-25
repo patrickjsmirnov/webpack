@@ -1,1 +1,4 @@
 /node_modules
+/dist/*.jpg
+/dist/*.png
+/dist/*.js

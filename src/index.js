@@ -1,5 +1,5 @@
 import './style.css';
-
+import Img from './assets/images/cat.jpg';
 
 function component() {
   var element = document.createElement('div');
