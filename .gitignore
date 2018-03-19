@@ -1,5 +1,2 @@
 /node_modules
-/dist/*.jpg
-/dist/*.png
-/dist/*.js
-/dist/*.woff
+/dist
