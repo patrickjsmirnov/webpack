@@ -1,4 +1,4 @@
-import './style.css';
+import './scss/main.scss';
 import User from './components/User/index.js';
 import printMe from './print.js';
 
