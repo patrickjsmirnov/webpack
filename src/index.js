@@ -15,6 +15,11 @@ function component() {
   btn.onclick = printMe;
   element.appendChild(btn);
 
+  let a = [1, 4, 6, 7, 7];
+
+  a.forEach((item) => {
+    console.log(item);
+  })
   return element;
 
 }
