@@ -1,0 +1,10 @@
+$red: #f00;;
+$blue: #00f;
+
+.hello::placeholder {
+  color: #fff;
+}
+
+.hello {
+  color: $blue;
+}
